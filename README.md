@@ -18,4 +18,4 @@ A School Project in Application Development
 ![image](https://user-images.githubusercontent.com/99750513/178540849-af616cd9-1e28-4f94-9c2b-3f0721dc15ac.png)
 
 #### INVENTORY
-![image](https://user-images.githubusercontent.com/99750513/178541199-36203bda-f743-45fb-af78-b34dace34169.png)
+![image](https://user-images.githubusercontent.com/99750513/178541438-6997343f-7cba-473e-b7c1-ca852f5c1281.png)
