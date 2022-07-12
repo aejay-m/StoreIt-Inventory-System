@@ -1,6 +1,6 @@
 # StoreIT
 
-School project in Application Development 
+A School Project in Application Development 
 
 **StoreIT** is an Inventory Management System that aims to provide an efficient interface to the business owners for managing their own inventory system real time. It enables the user to monitor its sales, stock and products.  
 
@@ -11,5 +11,11 @@ School project in Application Development
 
 ## UI DESIGN
 
-### LOGIN PAGE
+#### LOGIN PAGE
 ![image](https://user-images.githubusercontent.com/99750513/178540537-ce4c1743-ee36-4c4b-b048-7697081c8c1f.png)
+
+#### DASHBOARD
+![image](https://user-images.githubusercontent.com/99750513/178540849-af616cd9-1e28-4f94-9c2b-3f0721dc15ac.png)
+
+#### INVENTORY
+![image](https://user-images.githubusercontent.com/99750513/178541199-36203bda-f743-45fb-af78-b34dace34169.png)
