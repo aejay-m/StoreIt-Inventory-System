@@ -6,6 +6,7 @@ A School Project in Application Development
 
 
 ## What I Learned
+* C#
 * OOP concepts
 * Advanced SQL queries
 
